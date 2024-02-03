@@ -131,6 +131,7 @@ main {
 
 .main-pic {
   padding-top: 120px;
+  filter: brightness(1);
 }
 
 .description {
